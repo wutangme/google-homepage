@@ -9,4 +9,4 @@ From The Odin Project's
 (http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
   
 
-Paul Wu, Sept 1, 2019
+Paul Wu, Sept 2, 2019
