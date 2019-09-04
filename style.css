@@ -1,0 +1,29 @@
+/* google homepage stylesheet */
+
+
+
+/*Center the google logo */
+.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+}
+
+li{
+  display: inline; 
+  float: left;
+
+}
+
+.button {
+    text-align: center;
+}

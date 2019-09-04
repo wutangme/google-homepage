@@ -1,12 +1,14 @@
 # google-homepage
 
-This project will demonstrate an introduction to HTML and CSS concepts.
+This is a clone/replica of the Google homepage, www.google.com
 
 
+The inspiration for this project came from:
 
-From The Odin Project's 
-[curriculum]
-(http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+    http://www.theodinproject.com/courses/web-development-101/lessons/html-css
   
 
-Paul Wu, Sept 2, 2019
+Project Start Date: Sept 2, 2019
+
+
+
