@@ -1,29 +1,28 @@
 /* google homepage stylesheet */
 
-
-
-/*Center the google logo */
+/*centers google logo*/
 .center {
    display: block;
    margin-left: auto;
-   margin-right: auto;
-   
+   margin-right: auto; 
 }
 
-
+/*aligns the ul horizontally*/
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
-   
+    padding: 0;  
 }
 
-li{
+
+li a{
   display: inline; 
   float: left;
-
+  text-decoration: none;
+  
 }
 
+/*centers googleSearch+imFeelingLucky buttons*/
 .button {
     text-align: center;
 }
