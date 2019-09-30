@@ -11,5 +11,6 @@ The inspiration for this project came from:
 
 Project Start Date: Sept 2, 2019
 
+*Need to add CSS styles
 
 
